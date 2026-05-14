@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__claude_ai_Adobe_for_creativity__asset_finalize_file_upload"
+    ]
+  }
+}
